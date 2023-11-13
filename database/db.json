@@ -1,0 +1,46 @@
+{
+  "tokoA": {
+      "elektronik": [
+          {
+              "name": "kipas",
+              "description": "alat penyejuk ruangan berbentuk ringkas yang mudah dipindah-pindah sesuai kebutuhan"
+          },
+          {
+              "name": "remote",
+              "description": "Sistem atau mesin yang dirancang untuk mengkondisikan suhu udara dan kelembaban suatu ruangan"
+          }
+      ],
+      "dapur": [
+          {
+              "name": "copper",
+              "description": "Kontainer yang dipakai untuk membawa air, cairan atau minuman lain untuk konsumsi"
+          },
+          {
+              "name": "celemek",
+              "description": "Kain yang digunakan setelah pakaian untuk melindungi bagian depan dari badan"
+          }
+      ]
+  },
+  "tokoB": {
+      "elektronik": [
+          {
+              "name": "kulkas",
+              "description": "alat penyejuk ruangan berbentuk ringkas yang mudah dipindah-pindah sesuai kebutuhan"
+          },
+          {
+              "name": "microwave",
+              "description": "Alat masak elektrik, jadi sumber tenaganya listrik buka gas seperti kompor-kompor pada umumnya"
+          }
+      ],
+      "dapur": [
+          {
+              "name": "rantang",
+              "description": "Kontainer yang dipakai untuk membawa air, cairan atau minuman lain untuk konsumsi"
+          },
+          {
+              "name": "galon",
+              "description": "Kain yang digunakan setelah pakaian untuk melindungi bagian depan dari badan"
+          }
+      ]
+  }
+}
